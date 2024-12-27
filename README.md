@@ -42,16 +42,6 @@ Here are the FAQs that **Query Mate Bot** can answer:
 
 ---
 
-## 🔧 **Add More FAQs** 🔧
-
-You can easily modify the `faq` dictionary in the bot's code to add new questions and responses according to your business needs. Here’s an example of adding new FAQs:
-
-```python
-faq = {
-    "What is your refund policy?": "You can request a refund within 30 days of purchase.",
-    "How can I track my order?": "Visit the order tracking page on our website."
-}
-
 # 🚀 **Setup and Deployment** 🚀
 
 ### **📥 Requirements 📥**
