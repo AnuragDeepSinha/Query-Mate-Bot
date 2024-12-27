@@ -38,7 +38,7 @@ Here are the FAQs that **Query Mate Bot** can answer:
   - 🌐 *"We offer a wide range of services including web development, mobile app development, and cloud solutions."*
   
 - **How can I contact support?**
-  - 📧 *"You can email us at support@company.com or call us at +1234567890."*
+  - 📧 *"You can email us at  querymate@gmail.com or call us at +1324659087."*
 
 ---
 
