@@ -67,24 +67,3 @@ To set up the bot, follow these steps:
 After setting up the dependencies, run your bot script (e.g., `bot.py`) by executing the following command in your terminal:
 python bot.py
 
-# 🌐 Deploying on Railway 🌐
-To deploy Query Mate Bot on Railway, follow these steps:
-
-1. Create a Railway Account 
-Go to Railway and sign up for a free account.
-
-3. Set Up a New Project
-After logging in, click on "New Project" and select "Deploy from GitHub" or "Deploy from Template" (depending on your preference).
-
-5. Link Your GitHub Repository
-If you're using GitHub to store your code, connect your GitHub account to Railway.
-Choose the repository that contains your bot's code.
-
-6. Set Environment Variables
-In the Railway dashboard, go to the Settings tab of your project.
-Add the following Environment Variables:
-API_KEY: Your Telegram Bot API key (created with BotFather).
-
-7. Configure Your Deployment
-Railway should automatically detect that you're deploying a Python project. Make sure the correct build and run commands are set (typically, it will automatically use pip install -r requirements.txt to install dependencies).
-You can also configure a custom command if needed.
